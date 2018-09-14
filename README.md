@@ -34,7 +34,7 @@ $ cp .env.sample .env
 - Write RSS configuration to `config/rss_config.yml`
 
 ```yaml
-bslog_com: # an item name is used as ARGV
+bslog_com: # an item name used as ARGV
   name: ビーズログ.com # not used in script so for human understanding 
   rss_uri: https://www.bs-log.com/feed/
   latest_published_at_filename: bslog_latest_published_at.txt
@@ -84,10 +84,14 @@ $ cd /path/to/richbozu && git pull
 - [`Whenever`](https://github.com/javan/whenever) is recommended
 
 # Note
-- If you needn't digest auth logic, remove it
+- If you don't need digest auth logic, remove it
 - Many access in short interval may cause something bad...
     - devide execution files
 
 # TODO
 - Store articles information to RDB?
 - Write test codes
+
+# Thanks
+- [Feedjira](https://github.com/feedjira/feedjira)
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer)
