@@ -1,0 +1,17 @@
+bslog_com:
+  name: ビーズログ
+  rss_uri: https://www.bs-log.com/feed/
+  latest_published_at_filename: bslog_latest_published_at.txt
+  latest_all_text_filename: bslog_latest_all_text.txt
+  text_header: |
+    ビーズログ.com の最新記事
+  cybozu_board_name: config_name_02
+
+g_style_online_to_sakki_itteta_yatsu:
+  name: ガルスタオンライン
+  rss_uri: http://dengekionline.com/cate/27/rss.xml
+  latest_published_at_filename: g_style_online_latest_published_at.txt
+  latest_all_text_filename: g_style_online_all_text.txt
+  text_header: |
+    ガルスタオンライン の最新記事
+  cybozu_board_name: config_name_01

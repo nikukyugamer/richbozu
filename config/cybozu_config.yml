@@ -1,0 +1,9 @@
+config_name_01:
+  name: 'イーブイ'
+  post_page: 'https://onlinedemo.cybozu.info/scripts/office10/ag.cgi?page=MyFolderMessageView&mid=4&mdbid=4'
+  textbox_id: '#Data-m782'
+
+config_name_02:
+  name: 'ミュウ'
+  post_page: 'https://onlinedemo.cybozu.info/scripts/office10/ag.cgi?page=BulletinView&bid=92'
+  textbox_id: '#Data-b92'
