@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "dotenv": "6.2.0",
+    "dotenv": "10.0.0",
     "js-yaml": "3.14.1",
     "puppeteer": "1.20.0"
   }
