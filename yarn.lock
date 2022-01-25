@@ -88,10 +88,10 @@ devtools-protocol@0.0.937139:
   resolved "https://registry.yarnpkg.com/devtools-protocol/-/devtools-protocol-0.0.937139.tgz#bdee3751fdfdb81cb701fd3afa94b1065dafafcf"
   integrity sha512-daj+rzR3QSxsPRy5vjjthn58axO8c11j58uY0lG5vvlJk/EiOdCWOptGdkXDjtuRHr78emKq0udHCXM4trhoDQ==
 
-dotenv@14.0.1:
-  version "14.0.1"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-14.0.1.tgz#130e75a16df47de88becdf6d47527df76f864d33"
-  integrity sha512-CuBFi54IgZtRqSls21+DLbQ1YZGEx80DerXbnj+wCGZ+UvxQdfXvWJliB3n3yaeaNAQQs2l/53iZwclTHtL3uA==
+dotenv@14.3.2:
+  version "14.3.2"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-14.3.2.tgz#7c30b3a5f777c79a3429cb2db358eef6751e8369"
+  integrity sha512-vwEppIphpFdvaMCaHfCEv9IgwcxMljMw2TnAQBB4VWPvzXQLTb82jwmdOKzlEVUL3gNFT4l4TPKO+Bn+sqcrVQ==
 
 end-of-stream@^1.1.0, end-of-stream@^1.4.1:
   version "1.4.4"
